@@ -1,0 +1,4 @@
+BerryFlirtChat
+==============
+
+Erlang + ChicagoBoss + Redis
